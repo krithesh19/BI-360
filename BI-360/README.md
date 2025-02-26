@@ -29,7 +29,7 @@ Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzJkODE
 ## Data Sources
 The dashboard seamlessly collects and utilizes data from two primary sources:
 
-1. **Excel/CSV Files:** Targets, Market Share data, and related information are sourced from [Excel/CSV files](https://github.com/pradeep-the-analyst/BI-360/tree/main/Assets/Excel_CSV_Files).
+1. **Excel/CSV Files:** Targets, Market Share data, and related information are sourced from [Excel/CSV files](https://github.com/pradeep-the-analyst/BI-360/tree/main/Assets/Excel_CSV_Files)
    
 2. **MySQL Database:** Facts and Dimensions for all departments are retrieved from a [MySQL database](https://github.com/pradeep-the-analyst/BI-360/tree/main/Assets/MySQL_Database).
 
