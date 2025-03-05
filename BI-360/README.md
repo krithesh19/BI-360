@@ -13,7 +13,7 @@ Business Insights 360 is a comprehensive Power BI dashboard designed to empower 
 - **Executive View:** Metrics critical for top-level decision-makers.
 
 ## Live Dashboard
-Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzJkODEzZjUtMWJmZC00YjMyLWJlYzYtZjJmZTJjMGE0OWU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZjNmODU5MWEtZDk0ZC00MDE1LWJiNDgtNzBmMmI5YTkzZTJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ## Key Achievements
 - **Customization:** Tailored for AtliQ Hardware's specific needs.
