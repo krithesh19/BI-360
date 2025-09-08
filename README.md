@@ -13,10 +13,9 @@
 It delivers actionable insights across **Finance, Sales, Marketing, Supply Chain, and Executive Management** — helping leaders make data-driven decisions faster.  
 
 ---
-
 ## 🖼️ Dashboard Preview
 <p align="center">
-  <img src="BusinessInsights360.png" alt="Business Insights 360 Dashboard" width="800">
+  <img src="BusinessInsights360-hero.png" alt="Business Insights 360 Dashboard" width="800">
 </p>
 
 ---
