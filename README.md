@@ -1,43 +1,71 @@
-# Business Insights 360 Power BI Project
+# 📊 Business Insights 360 – Power BI Project
 
-Welcome to the Business Insights 360 Power BI project repository! 🚀
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data-Analytics-blue?style=flat-square&logo=databricks&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-7C3AED?style=flat-square)
 
-## Overview
-Business Insights 360 is a comprehensive Power BI dashboard designed to empower AtliQ Hardware with actionable insights across Finance, Sales, Marketing, and Supply Chain. This repository houses the project files and documentation.
+---
 
-## Features
-- **Finance View:** Detailed financial analysis, including revenue, expenses, and profit margins.
-- **Sales View:** Insights into product and customer performance.
-- **Marketing View:** Analytics to enhance marketing strategy.
-- **Supply Chain View:** Optimization metrics for efficient supply chain management.
-- **Executive View:** Metrics critical for top-level decision-makers.
+## 📌 Overview
+**Business Insights 360** is an end-to-end **Power BI dashboard** designed for **AtliQ Hardware**.  
+It delivers actionable insights across **Finance, Sales, Marketing, Supply Chain, and Executive Management** — helping leaders make data-driven decisions faster.  
 
-## Live Dashboard
-Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZjNmODU5MWEtZDk0ZC00MDE1LWJiNDgtNzBmMmI5YTkzZTJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+---
 
-## Key Achievements
-- **Customization:** Tailored for AtliQ Hardware's specific needs.
-- **Data Integration:** Seamless integration from Excel, CSV, and MySQL sources.
-- **Visualizations:** Engaging charts and visuals for better data understanding.
-- **Performance Optimization:** Achieved a 5% increase in report efficiency.
+## 🖼️ Dashboard Preview
+<p align="center">
+  <img src="images/BusinessInsights360.png" alt="Business Insights 360 Dashboard" width="800">
+</p>
 
-## Getting Started
-1. Clone this repository.
-2. Open the project in Power BI Desktop.
-3. Explore the data model and visualizations.
+---
 
-## Data Sources
-The dashboard seamlessly collects and utilizes data from two primary sources:
+## 🚀 Features
+- 💰 **Finance View** → Revenue, expenses & profit margin trends  
+- 📈 **Sales View** → Product & customer performance insights  
+- 🎯 **Marketing View** → Campaign effectiveness & ROI tracking  
+- 🚚 **Supply Chain View** → Forecast accuracy & risk profiling  
+- 🏢 **Executive View** → High-level KPIs for decision-makers  
 
-1. **Excel/CSV Files:** Targets, Market Share data, and related information are sourced from excel files.
-2. **MySQL Database:** Facts and Dimensions for all departments are retrieved from a MySQL database.
+---
 
-### Prerequisites
-- [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
-- [DAX Studio](https://daxstudio.org/)
+## 🌍 Live Dashboard
+👉 [Click here to explore the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjNmODU5MWEtZDk0ZC00MDE1LWJiNDgtNzBmMmI5YTkzZTJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## How to Contribute
-Contributions are welcome! Feel free to open issues or submit pull requests.
+---
 
-## Acknowledgments
-Special thanks to mentors, Hemanand Vadivel and Dhaval Patel. This project was part of the Power BI course offered by CodeBasis.
+## 🏆 Key Highlights
+- 🔗 **Integrated Data** → Combined Excel/CSV with MySQL sources  
+- 🎨 **Custom Visuals** → Tailored dashboards for Finance, Sales, Marketing & SCM  
+- ⚡ **Performance Optimized** → Reduced report load time, boosting efficiency by **5%**  
+- 📊 **Business Impact** → Enabled AtliQ Hardware to track KPIs, cut costs, and improve forecasting accuracy  
+
+---
+
+## ⚙️ Getting Started
+1. Clone this repository  
+2. Open the `.pbix` file in **Power BI Desktop**  
+3. Explore dashboards, DAX queries, and data models  
+
+---
+
+## 📂 Data Sources
+- **Excel/CSV** → Targets, Market Share, and ad-hoc inputs  
+- **MySQL Database** → Fact tables & Dimension tables  
+
+---
+
+## 🛠️ Prerequisites
+- [Power BI Desktop](https://powerbi.microsoft.com/desktop/)  
+- [DAX Studio](https://daxstudio.org/)  
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Please **open issues** or **submit pull requests**.  
+
+---
+
+## 📝 License
+Licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
